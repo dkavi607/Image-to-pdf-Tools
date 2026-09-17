@@ -1,0 +1,6 @@
+{
+  "name": "Image to pdf Tools",
+  "description": "Convert JPG, PNG, and WEBP images into high-quality PDF documents quickly and securely 100% in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
